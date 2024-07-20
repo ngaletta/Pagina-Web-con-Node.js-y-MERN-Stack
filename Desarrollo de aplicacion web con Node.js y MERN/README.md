@@ -1,0 +1,4 @@
+Somos La Mixtureria, el emblemático bar de la Ciudad de Buenos Aires, ubicado en el barrio de Palermo.
+Nuestro proyecto fue realizado con las tecnologías de react, Axios y la base de datos de Mongo.
+La funcionalidad que tiene nuestra aplicación es poder generar reservas, pedirte los tragos si es que venís acompañado y también algo rico para comer.
+El funcionamiento de la app es: Entrar en nuestra página, (podes ver nuestros platos y tragos), ir al sector de reservas. En dicho sector, tenes un formulario donde pones tus datos. Esos datos son: El nombre de quien está reservada la mesa, la cantidad de personas que van a venir, un número de teléfono, una fecha (día y horario) y un correo electrónico. Luego le das enviar y listo, ya estas registrado en nuestra base de datos para venir y disfrutar en el día y horario elegido!!
